@@ -1,2 +1,2 @@
 ## DS-for-PH_HW4
-### graphics using plotly
+### interactive graphics using plotly
